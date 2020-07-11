@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6446c2c5-96c7-4995-b441-17e6acce3083" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectId" id="1e0ChKXX8IrutgNfZCc9vC1GWLx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last.edited.regexp" value="n=-32" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="show.inlinked.gradle.project.popup" value="false" />
+  </component>
+  <component name="RunManager" selected="Kotlin.calculator.MainKt">
+    <configuration name="TaskKt (1)" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Problems-Handle_number_format_exception_main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="TaskKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Problems-Create_a_euphonious_word_main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="TaskKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="calculator.MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Smart_Calculator-task_main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="calculator.MainKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.calculator.MainKt" />
+        <item itemvalue="Kotlin.TaskKt (1)" />
+        <item itemvalue="Kotlin.TaskKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6446c2c5-96c7-4995-b441-17e6acce3083" name="Default Changelist" comment="" />
+      <created>1593449240319</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593449240319</updated>
+      <workItem from="1593449241656" duration="20795000" />
+      <workItem from="1593622981060" duration="701000" />
+      <workItem from="1593623705345" duration="6484000" />
+      <workItem from="1593959331113" duration="2867000" />
+      <workItem from="1594053222141" duration="11120000" />
+      <workItem from="1594132881553" duration="29740000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Project_Structure" timestamp="1593624427432">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Project_Structure/0.1080.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1593624427432" />
+    <state width="1877" height="458" key="GridCell.Tab.0.bottom" timestamp="1594471163121">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="146" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594135081018" />
+    <state width="1877" height="458" key="GridCell.Tab.0.bottom/0.1080.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1594471163121" />
+    <state width="1877" height="458" key="GridCell.Tab.0.center" timestamp="1594471163121">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="146" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1594135081018" />
+    <state width="1877" height="458" key="GridCell.Tab.0.center/0.1080.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1594471163121" />
+    <state width="1877" height="458" key="GridCell.Tab.0.left" timestamp="1594471163121">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="146" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1594135081018" />
+    <state width="1877" height="458" key="GridCell.Tab.0.left/0.1080.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1594471163121" />
+    <state width="1877" height="458" key="GridCell.Tab.0.right" timestamp="1594471163121">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="146" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1594135081018" />
+    <state width="1877" height="458" key="GridCell.Tab.0.right/0.1080.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1594471163121" />
+    <state width="1877" height="458" key="GridCell.Tab.1.bottom" timestamp="1594471163121">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="347" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594135065239" />
+    <state width="1877" height="458" key="GridCell.Tab.1.bottom/0.1080.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1594471163121" />
+    <state width="1877" height="458" key="GridCell.Tab.1.center" timestamp="1594471163121">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="347" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1594135065239" />
+    <state width="1877" height="458" key="GridCell.Tab.1.center/0.1080.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1594471163121" />
+    <state width="1877" height="458" key="GridCell.Tab.1.left" timestamp="1594471163121">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="347" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1594135065239" />
+    <state width="1877" height="458" key="GridCell.Tab.1.left/0.1080.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1594471163121" />
+    <state width="1877" height="458" key="GridCell.Tab.1.right" timestamp="1594471163121">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="347" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1594135065239" />
+    <state width="1877" height="458" key="GridCell.Tab.1.right/0.1080.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1594471163121" />
+    <state x="524" y="272" key="com.intellij.ide.util.TipDialog" timestamp="1594132884093">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="524" y="272" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1594132884093" />
+    <state x="655" y="343" key="com.intellij.ide.util.TipDialog/0.1080.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1593623705897" />
+    <state x="522" y="255" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1594414412052">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="522" y="255" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.1080.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1594414412052" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1594060809557">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1594060809557" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/Problems/Create a euphonious word/src/Task.kt</url>
+          <line>66</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/Problems/Create a euphonious word/src/Task.kt</url>
+          <line>68</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/Problems/Create a euphonious word/src/Task.kt</url>
+          <line>91</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/Problems/Create a euphonious word/src/Task.kt</url>
+          <line>136</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/Smart Calculator/task/src/calculator/Main.kt</url>
+          <line>13</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/Smart Calculator/task/src/calculator/Main.kt</url>
+          <line>16</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/Smart Calculator/task/src/calculator/Main.kt</url>
+          <line>568</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/Smart Calculator/task/src/calculator/Main.kt</url>
+          <line>65</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/Smart Calculator/task/src/calculator/Main.kt</url>
+          <line>71</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/Smart Calculator/task/src/calculator/Main.kt</url>
+          <line>144</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/Smart Calculator/task/src/calculator/Main.kt</url>
+          <line>148</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/Smart Calculator/task/src/calculator/Main.kt</url>
+          <line>59</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JetRunConfigurationType">
+        <watch expression="stack" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
